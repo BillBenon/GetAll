@@ -1,0 +1,18 @@
+{
+  "name": "getall-backend",
+  "version": "1.0.0",
+  "description": "GetAll Project Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BillBenon/GetAll/Backend.git"
+  },
+  "keywords": [
+    "GetAll-Backend"
+  ],
+  "author": "Bill Benon",
+  "license": "MIT"
+}
